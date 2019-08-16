@@ -1,4 +1,4 @@
-[secretive-action.surge.sh](secretive-action.surge.sh)
+DEMO: [secretive-action.surge.sh](https://secretive-action.surge.sh)
 
 ---
 
